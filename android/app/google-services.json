@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112666803136",
+    "project_id": "kidsecfcm",
+    "storage_bucket": "kidsecfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112666803136:android:0bf6de51ddcba3a66a2625",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112666803136-gcrid01do8jgtdvt7l24hh3vu23jembn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC_gZR17KfYnVPaAb0jv-eL5eX7vZybtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112666803136-gcrid01do8jgtdvt7l24hh3vu23jembn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
